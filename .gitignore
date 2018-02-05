@@ -1,0 +1,6 @@
+#ignore useless directories.
+/.idea
+/out
+
+#ignore auto-saved .bak
+*.bak
